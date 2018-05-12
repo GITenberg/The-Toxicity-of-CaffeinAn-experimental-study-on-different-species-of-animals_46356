@@ -1,0 +1,32 @@
+_repo: The-Toxicity-of-CaffeinAn-experimental-study-on-different-species-of-animals_46356
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Rieger, J. B. (John Benjamin)
+    alias: Rieger, John Benjamin
+    birthdate: 1886
+    gutenberg_agent_id: '43738'
+    url: http://www.gutenberg.org/2009/agents/43738
+  - agent_name: Salant, William
+    alias: Salant, W. (William)
+    gutenberg_agent_id: '43737'
+    url: http://www.gutenberg.org/2009/agents/43737
+description: ''
+gutenberg_issued: '2014-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46356'
+  lccn: agr12000679
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: U.S. Department of Agriculture, Bureau of Chemistry, bulletin No. 148
+subjects:
+- !lcsh 'Caffeine -- Physiological effect'
+- !lcc 'RM'
+title: 'The Toxicity of Caffein: An experimental study on different species of animals'
+url: http://www.gutenberg.org/ebooks/46356
